@@ -1,5 +1,7 @@
 body {
-    background-color: rgb(142, 122, 207)
+    background-color: rgb(142, 122, 207);
+    text-align: center;
+
     
 }
 
@@ -16,8 +18,13 @@ h2 {
     
 }
 
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 p {
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     text-align: justify;
 }
+
