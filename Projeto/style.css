@@ -44,10 +44,20 @@ p {
     line-height: 1.5;
 }
 
-ol {
-    color: rgb(175, 236, 255);
+ul {
+    list-style-type: none;
+    line-height: 2;
 }
 
+a {
+    text-decoration: none;
+    color: #99ffff;
+    font-weight: 700;
+}
+
+a:hover {
+    color: #FF9E9E;
+}
 img {
     width: 100%;
 }
