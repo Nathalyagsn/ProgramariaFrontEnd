@@ -47,6 +47,7 @@ p {
 ul {
     list-style-type: none;
     line-height: 2;
+    padding-left: 0;
 }
 
 a {
@@ -58,6 +59,7 @@ a {
 a:hover {
     color: #FF9E9E;
 }
+
 img {
     width: 100%;
 }
