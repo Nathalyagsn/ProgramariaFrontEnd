@@ -3,19 +3,28 @@ body {
     text-align: center;
     font-family: Open sans, sans-serif;
     color: white;
-
+    margin: 0px;
 }
 
 section {
-    background-color: #FF9E9E;
     max-width: 60%;
     margin: 0 auto;
 }
 
+h1 {
+    font-size: 60px;
+    font-weight: 300;
+}
 
 
 h2 {
-    color:rgb(41, 13, 117);
+    color:#2a0074;
+    font-size: 40px;
+}
+
+h3{
+    font-size: 22px;
+    font-style: italic;
 }
 
 .inf {
@@ -31,10 +40,15 @@ h2 {
 }
 
 p {
-    color: white;
+    font-size: 20px;
+    line-height: 1.5;
 }
 
 ol {
     color: rgb(175, 236, 255);
+}
+
+img {
+    width: 100%;
 }
 
