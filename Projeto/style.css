@@ -50,6 +50,32 @@ ul {
     padding-left: 0;
 }
 
+.principal {
+    background-color: #FF6CB5;
+    height: 40px;
+    max-width: 60%;
+    margin: 0 auto;
+}
+
+
+
+.principal a {
+    color: white;
+    font-size: 20px;
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+.principal li {
+    display: inline-block;
+    line-height: 1.9;
+    margin: 0 89px;
+}
+
+.principal a:hover{
+    color: #99ffff;
+}
+
 a {
     text-decoration: none;
     color: #99ffff;
@@ -63,4 +89,6 @@ a:hover {
 img {
     width: 100%;
 }
+
+
 
