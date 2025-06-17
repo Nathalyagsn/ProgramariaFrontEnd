@@ -3,7 +3,7 @@ body {
     text-align: center;
     font-family: Open sans, sans-serif;
     color: white;
-    margin: 0px;
+    margin: 0px 0px 30px 0px;
 }
 
 section {
@@ -92,6 +92,17 @@ a:hover {
 
 img {
     width: 100%;
+}
+
+button {
+    background-color:#99ffff;
+    border: 1x solid transparent;
+    padding: 2px 20px;
+    border-radius: 3px;
+}
+
+button:hover {
+    background-color: #FF6CB5;
 }
 
 
